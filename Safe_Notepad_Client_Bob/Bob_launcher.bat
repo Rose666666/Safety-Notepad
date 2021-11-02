@@ -1,0 +1,1 @@
+D:\Environment\Anaconda3\python.exe Safe_Notepad.py
